@@ -16,14 +16,13 @@ Next I will mention all the functions that this deobfuscator has:
 
 And now the anti (Remove the anti shits)
 
-- <h3 align="left">AntiDe4dot</h3>
-- <h3 align="left">AntiDebug</h3>
+- <h3 align="left">AntiDe4dot ✅</h3>
+- <h3 align="left">AntiDebug 🔧</h3>
 - <h3 align="left">AntiDecompiler</h3>
-- <h3 align="left">AntiDnspy</h3>
-- <h3 align="left">AntiDump</h3>
-- <h3 align="left">AntiIlDasm</h3>
-- <h3 align="left">AntiVm</h3>
-- <h3 align="left">AntiDecompiler</h3>
+- <h3 align="left">AntiDnspy 🔧</h3>
+- <h3 align="left">AntiDump 🔧</h3>
+- <h3 align="left">AntiIlDasm 🔧</h3>
+- <h3 align="left">AntiVm 🤷‍♂️</h3>
 
 <h3 align="left">Languages To use this deobfuscator is:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
