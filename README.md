@@ -3,16 +3,16 @@ Hi this obfuscate is modified by Hamsterious#0001.
 
 Next I will mention all the functions that this deobfuscator has:
 
-- <h3 align="left">CallToCalli</h3> ✅​
-- <h3 align="left">Constants</h3> ✅​
-- <h3 align="left">ConstantsMutate</h3> ✅​
-- <h3 align="left">DoubleParse</h3> ✅​
-- <h3 align="left">EmptyTypes</h3> ✅​
-- <h3 align="left">FakeObfuscator</h3> ✅​
-- <h3 align="left">HideMethods</h3> ✅​
-- <h3 align="left">LocalToField</h3> ✅​
-- <h3 align="left">RemoveNops</h3> ✅​
-- <h3 align="left">StringProtection</h3> ✅​
+- <h3 align="left">CallToCalli ✅</h3>
+- <h3 align="left">Constants ✅</h3>
+- <h3 align="left">ConstantsMutate ✅</h3>
+- <h3 align="left">DoubleParse ✅</h3>
+- <h3 align="left">EmptyTypes ✅</h3>
+- <h3 align="left">FakeObfuscator ✅</h3>
+- <h3 align="left">HideMethods ✅</h3>
+- <h3 align="left">LocalToField ✅</h3>
+- <h3 align="left">RemoveNops ✅</h3>
+- <h3 align="left">StringProtection ✅</h3>
 
 And now the anti (Remove the anti shits)
 
