@@ -18,7 +18,7 @@ And now the anti (Remove the anti shits)
 
 - <h3 align="left">AntiDe4dot ✅</h3>
 - <h3 align="left">AntiDebug 🔧</h3>
-- <h3 align="left">AntiDecompiler</h3>
+- <h3 align="left">AntiDecompiler ✅</h3>
 - <h3 align="left">AntiDnspy 🔧</h3>
 - <h3 align="left">AntiDump 🔧</h3>
 - <h3 align="left">AntiIlDasm 🔧</h3>
