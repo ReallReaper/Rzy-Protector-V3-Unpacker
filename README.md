@@ -26,3 +26,9 @@ And now the anti (Remove the anti shits)
 
 <h3 align="left">Languages To use this deobfuscator is:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Video How to use this deobfuscator:</h3>
+
+
+https://user-images.githubusercontent.com/95001569/179111917-172d6f9b-40d1-43a0-9346-b5cc26b274da.mp4
