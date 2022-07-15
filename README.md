@@ -1,5 +1,5 @@
 # Rzy-Protector-V3-Unpacker
-Hi this obfuscate is modified by Hamsterious#0001.
+Hi this deobfuscate is modified by Hamsterious#0001.
 
 Next I will mention all the functions that this deobfuscator has:
 
